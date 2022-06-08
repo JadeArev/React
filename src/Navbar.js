@@ -1,4 +1,4 @@
-export default Navbar = () => {
+function Navbar (){
 
     return (
     
@@ -9,3 +9,5 @@ export default Navbar = () => {
         </ul>
     );
 }
+
+export default Navbar;
